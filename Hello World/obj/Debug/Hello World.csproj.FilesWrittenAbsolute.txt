@@ -1,0 +1,5 @@
+/home/aditi/Downloads/Hello World/Hello World/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/aditi/Downloads/Hello World/Hello World/bin/Debug/Hello World.dll.mdb
+/home/aditi/Downloads/Hello World/Hello World/bin/Debug/Hello World.dll
+/home/aditi/Downloads/Hello World/Hello World/obj/Debug/Hello World.dll
+/home/aditi/Downloads/Hello World/Hello World/obj/Debug/Hello World.dll.mdb
